@@ -1,18 +1,17 @@
-- 👋 Hi, I’m @quaddevelopment
+👋 Hi, I’m @quaddevelopment
 
-- 👀 I’m interested in:
+👀 I’m interested in:
 - Programming
 - Web Development
 - UI/ UX
 - IT Security
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 - Python
 - PERN Stack
 - UX and UI Design
 
-- 📫 How to reach me:
-You cannot currently.
+📫 How to reach me: You cannot currently.
 
 
 <!---
