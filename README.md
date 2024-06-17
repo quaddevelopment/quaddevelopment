@@ -4,7 +4,8 @@
 - Programming
 - Web Development
 - UI/ UX
-- IT Security
+- Accessibility
+- Security
 
 🌱 I’m currently learning:
 - Python
